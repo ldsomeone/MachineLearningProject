@@ -1,11 +1,13 @@
-# Machine Learning Project
-## Supervised and Unsupervised Learning
-
+# Machine Learning Portfolio
+## This is my machine leaerning portfolio assessment
 <br>
 
 ### Table of Contents
 - [Description](#Description)
-- [Coding](#Coding)
+- [Github Setup](#Github-Repository)
+- [Linear Regression](#Linear-Regression)
+- [Classification using K-NN](#KNN-Classification)
+- [Image Recognition](#Image-Recognition)
 - [Worklog](#Worklog-and-Commits)
 - [References](#References)
 
@@ -24,7 +26,7 @@ Important: All of the code has been commented for easy understanding. In the fir
 <br>
 
 
-### Setting Up A Github Repository
+### Github Repository
 Setting up a GitHub repository can be very useful so you have a record of your code.
 <br>
 A step-by-step guide is detailed below, but to fork this repository and get started straight away, follow the link: [How to Fork a GitHub Repository](https://docs.gitlab.com/ee/user/project/repository/forking_workflow.html)
@@ -46,7 +48,7 @@ A step-by-step guide is detailed below, but to fork this repository and get star
 
 <br>
 
-### Development Roadmap
+### Linear Recognition
 
 - [x] Setup repos - GitHub
 - [x] setup ESP32 - Arduino IDE
@@ -59,7 +61,7 @@ A step-by-step guide is detailed below, but to fork this repository and get star
 
 <br>
 
-### Coding
+### KNN Classification
 This is the rough process I used to code the project. This can all be seen in the actual files in this repository.
 
 1. Import all the libraries.
@@ -69,6 +71,8 @@ This is the rough process I used to code the project. This can all be seen in th
 
 
 <br>
+
+### Image Recognition
 
 ### Worklog and Commits
 
