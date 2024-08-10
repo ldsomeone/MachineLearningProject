@@ -21,14 +21,12 @@ This portfolio demonstrates my proficiency in machine learning techniques, inclu
 
 ## Projects
 
-### Github Setup 
-#### 5 Points
+### Github Setup - #### 5 Points
 This is repository is the first part of my machine learning portfolio.
 <br> 
 
 
-### Linear Regression
- -  5 Points
+### Linear Regression - #### 5 Points
 **Project Name:** Predicting the Damage of Forest Fires
 **Description:** This project involves implementing a linear regression model to predict the area that a forest fire wil burn based on the temperature of a given day.. The dataset used contains data used to both train and test the model.  
 **Date:** 9/8/24  
@@ -36,8 +34,7 @@ This is repository is the first part of my machine learning portfolio.
 
 <br>
 
-### Classification using K-NN
-#### 5 Points
+### Classification using K-NN - #### 5 Points
 **Project Name:**  
 **Description:** This project focuses on implementing the K-Nearest Neighbors (K-NN) algorithm for classification tasks. The dataset used is [brief description of dataset], and the primary objective is to maximize the accuracy of the model by tuning hyperparameters and using cross-validation.  
 **Date:** 
@@ -45,16 +42,19 @@ This is repository is the first part of my machine learning portfolio.
 
 <br>
 
-### Image Recognition
-#### 15 Points
+### Image Recognition - #### 15 Points
 **Project Name:** Classifying Handwriten Digits.
 **Description:** This project involves building an image recognition model using convolutional neural networks (CNNs). The dataset consists of roughly 2000 handwritten digits (0-9) and the goal is to recognise each digit. To demonstrate this, I print an example image from the set and its corresponding label.  
 **Date:** 11.8.24  
 **References:** 
+
+<br>
 <br>
 
 ## Worklog
 The worklog provides a detailed timeline of the progress made on each project, including the challenges faced, solutions implemented, and milestones achieved.
+
+<br>
 
 Date | Commit Message | Version
 :-----|:----------------:|:--------:
