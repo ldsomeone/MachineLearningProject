@@ -5,7 +5,7 @@ This repository contains my machine learning portfolio assessment, showcasing va
 ## Table of Contents
 - [Description](#description)
 - [Projects](#projects)
-  - [Github Setup](#github-setup)
+  - Github Setup
   - Linear Regression
   - Classification using K-NN
   - Image Recognition
