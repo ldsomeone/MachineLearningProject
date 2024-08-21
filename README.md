@@ -32,6 +32,7 @@ This is repository is the first part of my machine learning portfolio.
 **References:** 
 - [Video used to Assist with Coding](https://www.youtube.com/watch?v=45ryDIPHdGg&t=262s)
 - [Dataset](https://www.kaggle.com/code/jangwalanshul/forest-wildfire-prediction-using-linear-regression)
+- [Linear Regression Information](https://www.ibm.com/topics/linear-regression)
 
 <br>
 
@@ -41,6 +42,8 @@ This is repository is the first part of my machine learning portfolio.
 **Date:  19/8/24** 
 **References:** 
 - [Video used for Context](https://www.youtube.com/watch?v=CMtpzNJbbWQ)
+- [K-Nearest Neighbours](https://www.geeksforgeeks.org/k-nearest-neighbours/)
+- [Wikipedia Page on KNN](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   
 
 <br>
