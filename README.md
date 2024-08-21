@@ -6,11 +6,10 @@ This repository contains my machine learning portfolio assessment, showcasing va
 - [Description](#description)
 - [Projects](#projects)
   - [Github Setup](#github-setup)
-  - [Linear Regression](#linear-regression)
-  - [Classification using K-NN](#classification-using-k-nn)
-  - [Image Recognition](#image-recognition)
+  - Linear Regression
+  - Classification using K-NN
+  - Image Recognition
 - [Worklog](#worklog)
-- [References](#references)
 
 ## Description
 This portfolio contains all of my machine learning projects, including linear regression, classification, and image recognition. 
@@ -30,8 +29,9 @@ This is repository is the first part of my machine learning portfolio.
 **Project Name:** Predicting the Damage of Forest Fires
 **Description:** This project involves implementing a linear regression model to predict the area that a forest fire wil burn based on the temperature of a given day.. The dataset used contains data used to both train and test the model.  
 **Date:** 9/8/24  
-**References:** [Video used to Assist with Coding](https://www.youtube.com/watch?v=45ryDIPHdGg&t=262s)
-                [Dataset](https://www.kaggle.com/code/jangwalanshul/forest-wildfire-prediction-using-linear-regression)
+**References:** 
+- [Video used to Assist with Coding](https://www.youtube.com/watch?v=45ryDIPHdGg&t=262s)
+- [Dataset](https://www.kaggle.com/code/jangwalanshul/forest-wildfire-prediction-using-linear-regression)
 
 <br>
 
@@ -39,7 +39,9 @@ This is repository is the first part of my machine learning portfolio.
 **Project Name:**  KNN for Classifying Cars
 **Description:** This project focuses on implementing the K-Nearest Neighbors (K-NN) algorithm for classification cars. 
 **Date:  19/8/24** 
-**References: ** [Video used for Context](https://www.youtube.com/watch?v=CMtpzNJbbWQ)
+**References:** 
+- [Video used for Context](https://www.youtube.com/watch?v=CMtpzNJbbWQ)
+  
 
 <br>
 
@@ -47,8 +49,9 @@ This is repository is the first part of my machine learning portfolio.
 **Project Name:** Classifying Handwriten Digits.
 **Description:** This project involves building an image recognition model using convolutional neural networks (CNNs). The dataset consists of roughly 2000 handwritten digits (0-9) and the goal is to recognise each digit. To demonstrate this, I print an example image from the set and its corresponding label.  
 **Date:** 11/8/24  
-**References:**  [Tutorial that Helped](https://www.youtube.com/watch?v=il8dMDlXrIE)
-                 [Dataset Used](https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html)
+**References:**  
+- [Tutorial that Helped](https://www.youtube.com/watch?v=il8dMDlXrIE)
+- [Dataset Used](https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html)
 
 <br>
 <br>
