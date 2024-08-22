@@ -32,6 +32,7 @@ This is repository is the first part of my machine learning portfolio.
 **References:** 
 - [Video used to Assist with Coding](https://www.youtube.com/watch?v=45ryDIPHdGg&t=262s)
 - [Dataset](https://www.kaggle.com/code/jangwalanshul/forest-wildfire-prediction-using-linear-regression)
+- [Linear Regression Information](https://www.ibm.com/topics/linear-regression)
 
 <br>
 
