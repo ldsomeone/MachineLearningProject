@@ -27,7 +27,7 @@ This is repository is the first part of my machine learning portfolio.
 
 ### Linear Regression - 5 Points
 **Project Name:** Predicting the Damage of Forest Fires
-**Description:** This project involves implementing a linear regression model to predict the area that a forest fire wil burn based on the temperature of a given day.. The dataset used contains data used to both train and test the model.  
+**Description:** This project involves implementing a linear regression model to predict the area that a forest fire wil burn based on the temperature of a given day. The dataset used contains data used to both train and test the model. The results are then plotted on a scatter graph.
 **Date:** 9/8/24  
 **References:** 
 - [Video used to Assist with Coding](https://www.youtube.com/watch?v=45ryDIPHdGg&t=262s)
@@ -37,10 +37,11 @@ This is repository is the first part of my machine learning portfolio.
 
 ### Classification using K-NN - 5 Points
 **Project Name:**  KNN for Classifying Cars
-**Description:** This project focuses on implementing the K-Nearest Neighbors (K-NN) algorithm for classification cars. 
-**Date:  19/8/24** 
+**Description:** This project focuses on implementing the K-Nearest Neighbors (K-NN) algorithm to classify cars as either acceptable, unacceptable, good or very good based off a number of input variables. It then prints the results of this in a confusion matrix.
+**Date: 19/8/24** 
 **References:** 
 - [Video used for Context](https://www.youtube.com/watch?v=CMtpzNJbbWQ)
+- [KNN Information](https://www.elastic.co/what-is/knn)
   
 
 <br>
@@ -57,7 +58,6 @@ This is repository is the first part of my machine learning portfolio.
 <br>
 
 ## Worklog
-The worklog provides a detailed timeline of the progress made on each project, including the challenges faced, solutions implemented, and milestones achieved.
 
 <br>
 
