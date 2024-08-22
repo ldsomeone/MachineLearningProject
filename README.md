@@ -47,13 +47,12 @@ This is repository is the first part of my machine learning portfolio.
 
 <br>
 
-### Image Recognition - 15 Points
-**Project Name:** Classifying Handwriten Digits.
-**Description:** This project involves building an image recognition model using convolutional neural networks (CNNs). The dataset consists of roughly 2000 handwritten digits (0-9) and the goal is to recognise each digit. To demonstrate this, I print an example image from the set and its corresponding label.  
-**Date:** 11/8/24  
+### Neural Networks Essay - 15 Points
+**Project Name:** Research Report on Neural Networks.
+**Description:** This is an essay that discusses the components of artificial neural networks, different types of neural networks and their applications, and the training of neural networks.  
+**Date:** 21/8/24  
 **References:**  
-- [Tutorial that Helped](https://www.youtube.com/watch?v=il8dMDlXrIE)
-- [Dataset Used](https://scikit-learn.org/stable/auto_examples/datasets/plot_digits_last_image.html)
+- My references are underneath my essay.
 
 <br>
 <br>
@@ -66,8 +65,8 @@ Date | Commit Message | Version
 :-----|:----------------:|:--------:
 8.8.24 | Initial setup of Github repository | 0.1.0
 9.8.24 | Added linear regression project  | 0.1.1
-11.8.24 | Added image classification project | 0.1.2
-19.8.24 | adding knn project | 0.1.3
+19.8.24 | adding knn project | 0.1.2
+21.8.24 | Added image classification project | 0.1.3
 21.08.24| updating repository and completing readme.md | 0.1.4
 
 
