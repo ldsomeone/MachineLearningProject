@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-This repository contains my machine learning portfolio assessment, showcasing various projects and implementations. Below is a detailed description of the projects, methodologies, and references.
+This repository contains my machine learning portfolio assessment, showcasing various projects and implementations. Below is a detailed description of the projects and references.
 
 ## Table of Contents
 - [Description](#description)
