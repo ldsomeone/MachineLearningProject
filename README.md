@@ -27,6 +27,7 @@ This is repository is the first part of my machine learning portfolio.
 
 ### Linear Regression - 5 Points
 **Project Name:** [Predicting the Damage of Forest Fires](https://github.com/ldsomeone/MachineLearningProject/tree/main/Linear%20Regression)
+
 **Description:** This project involves implementing a linear regression model to predict the area that a forest fire wil burn based on the temperature of a given day. The dataset used contains data used to both train and test the model. The results are then plotted on a scatter graph.
 **Date:** 9/8/24  
 **References:** 
@@ -38,6 +39,7 @@ This is repository is the first part of my machine learning portfolio.
 
 ### Classification using K-NN - 5 Points
 **Project Name:**  [KNN for Classifying Cars](https://github.com/ldsomeone/MachineLearningProject/tree/main/KNN)
+
 **Description:** This project focuses on implementing the K-Nearest Neighbors (K-NN) algorithm to classify cars as either acceptable, unacceptable, good or very good based off a number of input variables. It then prints the results of this in a confusion matrix.
 **Date: 19/8/24** 
 **References:** 
@@ -49,6 +51,7 @@ This is repository is the first part of my machine learning portfolio.
 
 ### Neural Networks Essay - 15 Points
 **Project Name:** [Research Report on Neural Networks](https://github.com/ldsomeone/MachineLearningProject/tree/main/Neural%20Network%20Essay)
+
 **Description:** This is an essay that discusses the components of artificial neural networks, different types of neural networks and their applications, and the training of neural networks.  
 **Date:** 21/8/24  
 **References:**  
